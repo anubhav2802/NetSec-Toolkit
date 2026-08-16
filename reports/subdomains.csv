@@ -1,0 +1,30 @@
+Subdomain,IP Address,Protocol,HTTP Status,Server,Title,Size(KB),Latency(ms),Redirect
+account.google.com,142.250.182.46,HTTPS,200,sffe,Learn More About Google's Secure and Protected Accounts - Google,161.86,4034.14,https://www.google.com/account/about/?hl=en-US
+accounts.google.com,192.178.158.84,HTTPS,200,ESF,Sign in - Google Accounts,879.85,2411.91,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Faccounts.google.com%2F&dsh=S707884837%3A1786090576302129&followup=https%3A%2F%2Faccounts.google.com%2F&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxv6l07XtzutsBPf2w2Q868NQ_kIFkRuFGRCwd-Xnpn-rkhywPanVvlJoAzOGYD5hsPgqHrkiQ
+admin.google.com,142.250.182.110,HTTPS,200,ESF,Sign in - Google Accounts,879.53,5923.38,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fadmin.google.com%2F&dsh=S707884837%3A1786090579529801&followup=https%3A%2F%2Fadmin.google.com%2F&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxsEQTMWFBk2WRMXw4q9ekt89iqEKiyjZz99xUvPclEAGP0JmHTXtC_-qEjOXW_7eTofSDZmvQ
+analytics.google.com,142.250.182.46,HTTPS,200,ESF,Redirecting...,5.52,1831.42,https://analytics.google.com/analytics/web/
+api.google.com,142.250.193.132,HTTPS,404,Unknown,Error 404 (Not Found)!!1,1.52,1869.86,https://api.google.com/
+apps.google.com,142.250.29.113,HTTPS,200,ESF,Google Workspace: Secure Online Productivity & Collaboration Tools,1484.61,5572.44,https://workspace.google.com/
+blog.google.com,142.250.29.191,HTTPS,200,Google Frontend,News from Google | Google Product and Technology News and Stories,330.57,4424.8,https://blog.google/
+cloud.google.com,142.250.29.138,HTTPS,200,ESF,AI and Cloud Computing Services | Google Cloud,2282.3,2911.52,https://cloud.google.com/
+dns.google.com,8.8.4.4,HTTPS,200,scaffolding on HTTPServer2,Google Public DNS,1.35,3064.68,https://dns.google/
+docs.google.com,142.250.29.102,HTTPS,200,ESF,Sign in - Google Accounts,879.58,3243.2,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S-952790573%3A1786090577343657&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxv3k8ZSy4DnC5tzmjA-YK0KKVbXDjipd_JMQiIMnxWclkCzFwEEMR54X5B8ne-7zNqJLqVRNA
+download.google.com,142.250.193.132,HTTPS,404,Unknown,Error 404 (Not Found)!!1,1.52,1714.03,https://download.google.com/
+files.google.com,142.250.193.142,HTTPS,200,sffe,Files,12.43,2117.58,https://files.google.com/
+help.google.com,142.250.182.142,HTTPS,200,support-content-ui,Google Help,1270.25,4202.55,https://support.google.com/
+images.google.com,192.178.158.139,HTTPS,200,gws,Google Images,79.19,2265.65,https://images.google.com/
+m.google.com,192.178.158.193,HTTPS,200,sffe,Google's products and services  - About Google,669.39,4195.24,https://about.google/products/
+mail.google.com,192.178.177.83,HTTPS,200,ESF,Gmail,880.92,4878.58,https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S1962968332%3A1786090578633800&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxv0_yPEt9iTuGZgg9rueIqZAckGKAuvVnRcBODJ74EqTJjNPxs3ACPAndH8jwe1bw20_Aahgw
+mobile.google.com,142.250.193.43,HTTPS,200,sffe,Google's products and services  - About Google,669.39,4417.74,https://about.google/products/#!/recommended
+news.google.com,192.178.134.138,HTTPS,200,ESF,Google News,1786.12,2862.34,https://news.google.com/home?hl=en-IN&gl=IN&ceid=IN:en
+ns1.google.com,216.239.32.10,N/A,N/A,Unknown,N/A,N/A,N/A,N/A
+ns2.google.com,216.239.34.10,N/A,N/A,Unknown,N/A,N/A,N/A,N/A
+registry.google.com,142.250.182.46,HTTPS,200,sffe,Expanding the online frontier | Google Registry,97.2,3071.77,https://www.registry.google/
+search.google.com,192.178.134.100,HTTPS,200,gws,Google,82.67,3117.03,https://www.google.com/
+shop.google.com,192.178.158.92,HTTPS,200,gws,Update your browser to continue,110.85,4364.77,https://www.google.com/shopping
+smtp.google.com,192.178.211.27,N/A,N/A,Unknown,N/A,N/A,N/A,N/A
+store.google.com,142.250.122.138,HTTPS,200,ESF,Google Store for Google Made Devices & Accessories,2248.64,3154.57,https://store.google.com/?hl=en-IN
+support.google.com,142.250.118.102,HTTPS,200,support-content-ui,Google Help,1270.25,3479.1,https://support.google.com/
+uploads.google.com,108.170.217.160,N/A,N/A,Unknown,N/A,N/A,N/A,N/A
+vpn.google.com,64.9.224.70,N/A,N/A,Unknown,N/A,N/A,N/A,N/A
+www.google.com,142.251.151.119,HTTPS,200,gws,Google,82.6,2437.13,https://www.google.com/

@@ -1,0 +1,45 @@
+HASH IDENTIFIER REPORT
+============================================================
+
+Hash Value : 5f4dcc3b5aa765d61d8327deb882cf99
+Length     : 32
+Encoding   : Hexadecimal
+
+------------------------------------------------------------
+Match #1
+------------------------------------------------------------
+Algorithm            : MD5
+Category             : Cryptographic Hash
+Confidence           : High
+Security             : Weak
+Collision Resistant  : No
+Hashcat Mode         : 0
+John Format          : Raw-MD5
+
+Common Usage
+ - Checksums
+ - Legacy Password Storage
+ - File Integrity
+
+Recommendation
+Do NOT use this algorithm for password storage.
+Recommended : Argon2id or bcrypt.
+
+------------------------------------------------------------
+Match #2
+------------------------------------------------------------
+Algorithm            : NTLM
+Category             : Windows Password Hash
+Confidence           : Medium
+Security             : Weak
+Collision Resistant  : No
+Hashcat Mode         : 1000
+John Format          : NT
+
+Common Usage
+ - Windows Authentication
+
+Recommendation
+Do NOT use this algorithm for password storage.
+Recommended : Argon2id or bcrypt.
+
